@@ -1,0 +1,4 @@
+# 数据库路径
+data: './gsdata/gs.db'
+# 浏览器路径，chrome
+browser: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
